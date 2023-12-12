@@ -1,10 +1,9 @@
-# TIL - Today I Learned
-
-or **Things I Learned** on other days and am only just now getting around to documenting them
+# Codex
 
 ## Categories
 
 * [github](#github)
+* [sql](#sql)
 
 ---
 
@@ -13,11 +12,13 @@ or **Things I Learned** on other days and am only just now getting around to doc
 * [Choose a License](github/choose-a-license.md) 2023-DEC-05
 * [Use Dashes in Filenames](github/use-dashes-in-filenames.md) 2023-DEC-05
 
+### sql
+
+#### sql-server-management-studio
+
+* [Keyboard Shortcuts](sql/sql-server-management-studio/keyboard-shortcuts.md)
+
 ---
-
-## Other TIL Collections
-
-* [jbranchaud/til](https://github.com/jbranchaud/til)
 
 ## License
 
