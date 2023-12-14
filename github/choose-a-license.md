@@ -9,3 +9,9 @@ I chose the MIT License to keep things simple and permissive.
 ## Sources
 
 * [GitHub - Choose an open source license](https://choosealicense.com/)
+
+[&#8593; Back to Top](#)
+
+---
+
+[&#8592; Back to README.md](../README.md)

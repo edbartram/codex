@@ -12,3 +12,9 @@ Avoid:
 * [Coding Horror - Of Spaces, Underscores and Dashes](https://blog.codinghorror.com/of-spaces-underscores-and-dashes/)
 * [A2 Should I Use Dashes Or Underscores?](https://www.a2hosting.com/blog/dashes-vs-underscores/)
 * [Stack Overflow - Matthew Sandoz' answer](https://stackoverflow.com/questions/11947587/is-there-a-naming-convention-for-git-repositories#answer-30529354)
+
+[&#8593; Back to Top](#)
+
+---
+
+[&#8592; Back to README.md](../README.md)
