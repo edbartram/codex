@@ -33,6 +33,10 @@
 
 [&#8593; Back to Top](#)
 
+### vscode
+
+* [SQL Database Projects Extension](vscode/sql-database-projects-extension.md)
+
 ---
 
 ## License
